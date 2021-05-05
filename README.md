@@ -9,3 +9,6 @@ AUTHENTICATION system using JWT.
 The portal also implements a secure but flexible USER PERMISSIONS system which allocates priviledges to the different types/category of users.
 
 The portal is built with a MERNG (Mongodb, Express, React, Node.js, GraphQL) stack. Other technologies using are Redux Toolkit, Webpack 5 Module federation and PWA(Progressive Web App) for mobile App experience.
+
+
+NB: The application is still under development and some of the features listed above are not yet implement.
